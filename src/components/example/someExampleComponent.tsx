@@ -10,6 +10,8 @@ const SomeExampleComponent: React.FC<SomeExampleComponentProps> = () => {
 	<div className={styles.container}>
   <h1>Header</h1>
   <p>Sqaduplerous swag</p>
+  <img src="image0.gif">
+  </img>
 </div>
   )
 }
