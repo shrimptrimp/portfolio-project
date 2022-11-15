@@ -1,5 +1,5 @@
 import React from 'react'
-import goose from './assets/image0.gif'
+import goose from './image0.gif'
 type GooseGifProps = {
 
 }
