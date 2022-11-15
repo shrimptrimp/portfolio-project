@@ -1,5 +1,5 @@
 import React from 'react'
-
+import goose from './assets/image0.gif'
 type GooseGifProps = {
 
 }
@@ -8,7 +8,7 @@ const GooseGif: React.FC<GooseGifProps> = () => {
   return (
     <div>
       <body>
-        <img src="https://tenor.com/view/dance-swan-pigeon-goose-gif-16042892" alt="geese" />
+        <img src={goose} alt="geese" />
       </body>
     </div>
   )
