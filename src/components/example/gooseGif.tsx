@@ -8,7 +8,7 @@ const GooseGif: React.FC<GooseGifProps> = () => {
   return (
     <div>
       <body>
-        <img src={goose} alt="my-gif" />
+        <img src={goose} alt="this should be a goose" />
       </body>
     </div>
   )
