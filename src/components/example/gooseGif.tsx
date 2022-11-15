@@ -1,5 +1,4 @@
 import React from 'react'
-import goose from './image0.gif'
 type GooseGifProps = {
 
 }
@@ -8,7 +7,7 @@ const GooseGif: React.FC<GooseGifProps> = () => {
   return (
     <div>
       <body>
-        <img src={goose} alt="geese" />
+        <img src={require('./image0.gif')} alt="my-gif" />
       </body>
     </div>
   )
