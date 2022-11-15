@@ -7,7 +7,7 @@ const GooseGif: React.FC<GooseGifProps> = () => {
   return (
     <div>
       <body>
-        <img src={require('./image0.gif')} alt="my-gif" />
+        <img src="src\components\example\image0.gif" alt="my-gif" />
       </body>
     </div>
   )
