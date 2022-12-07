@@ -6,8 +6,8 @@ import Main from './components/example/main';
 const App: React.FC = () => {
   return (
     <div>
-      <MyFirstComponent />
       <Main />
+      <MyFirstComponent />
     </div>
   )
 }
