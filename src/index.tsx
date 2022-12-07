@@ -7,7 +7,7 @@ import {
   Route,
 } from "react-router-dom";
 import MyFirstComponent from './components/myFirstComponent';
-import SomeExampleComponent from './components/example/someExampleComponent';
+import Main from './components/example/main';
 import ReactDOM from 'react-dom/client';
 import Navbar from './components/navbar/navbar';
 
@@ -22,7 +22,7 @@ const Index: React.FC = () => {
       <Navbar></Navbar>
         <Routes>
           <Route path='/' element={<App />}></Route>
-          <Route path='example' element={<SomeExampleComponent />} />
+          <Route path='main' element={<Main />} />
           <Route path='/first' element={<MyFirstComponent />} />
         </Routes>
       </BrowserRouter>

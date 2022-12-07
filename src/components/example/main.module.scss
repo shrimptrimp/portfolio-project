@@ -1,23 +1,32 @@
 .container {
-  width: 100%;
-  height: 450px;
+  width: auto;
+  height: 600px;
   background: #1abc9c;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
+  background-image:url(Tsunami_by_hokusai_19th_century.png);
+  background-position: center;
+  background-size: cover;
+  
   h1 {
     font-size: 52px;
     color: azure;
     text-shadow: 2px 2px #7860ff;
+    background: black;
+
   }
 
   p {
     font-weight: 700;
     font-size: 25px;
     color: rgb(206, 255, 255);
-    background: rgb(255, 0, 200);
+    background: black;
     padding: 10px;
+  justify-content: center;
+  align-items: center;
+
   }
+
 }
