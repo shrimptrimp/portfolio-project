@@ -9,6 +9,7 @@ import {
 import MyFirstComponent from './components/myFirstComponent';
 import SomeExampleComponent from './components/example/someExampleComponent';
 import ReactDOM from 'react-dom/client';
+import Navbar from './components/navbar/navbar';
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
@@ -18,6 +19,7 @@ const Index: React.FC = () => {
   return (
     <React.StrictMode>
       <BrowserRouter>
+      <Navbar></Navbar>
         <Routes>
           <Route path='/' element={<App />}></Route>
           <Route path='example' element={<SomeExampleComponent />} />
