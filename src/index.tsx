@@ -23,7 +23,9 @@ const Index: React.FC = () => {
         <Routes>
           <Route path='/' element={<App />}></Route>
           <Route path='main' element={<Main />} />
-          <Route path='/first' element={<MyFirstComponent />} />
+          <Route path='/cv' element={<MyFirstComponent />} />
+          <Route path='/portfolio-project/' element={<Main />} />
+
         </Routes>
       </BrowserRouter>
     </React.StrictMode>
