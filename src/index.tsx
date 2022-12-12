@@ -6,7 +6,7 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import MyFirstComponent from './components/myFirstComponent';
+import CV from './components/example/CV';
 import Main from './components/example/main';
 import ReactDOM from 'react-dom/client';
 import Navbar from './components/navbar/navbar';
@@ -23,7 +23,7 @@ const Index: React.FC = () => {
         <Routes>
           <Route path='/' element={<App />}></Route>
           <Route path='main' element={<Main />} />
-          <Route path='/cv' element={<MyFirstComponent />} />
+          <Route path='/cv' element={<CV />} />
           <Route path='/portfolio-project/' element={<Main />} />
 
         </Routes>
