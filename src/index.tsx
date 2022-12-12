@@ -6,7 +6,7 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import CV from './CV';
+import CV from './components/CV';
 import Main from './components/example/main';
 import ReactDOM from 'react-dom/client';
 import Navbar from './components/navbar/navbar';
