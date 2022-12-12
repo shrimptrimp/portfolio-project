@@ -1,6 +1,6 @@
 // App.tsx
 import React from 'react'
-import CV from './components/CV';
+import CV from './components/example/CV';
 import Main from './components/example/main';
 
 const App: React.FC = () => {
