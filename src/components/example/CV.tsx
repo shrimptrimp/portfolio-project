@@ -29,9 +29,10 @@ An active programming hobbyist and student, and cooperative third-year senior ca
 Directed a children's cooking group with some other volunteers.
 <h3>Camp counselor at Hakunila Church</h3>
 <h4>2019 - </h4>
-<span>I began taking counselor training almost immediately after my confirmation ceremony. I went to training for three years.</span>
-<span> As a counselor at several camps my responsibilities included but were not limited to ensuring the safety and wellbeing of the youths at the camp, doing games and sketches, teaching of the passages that the youths need to know to pass camp, leading bible study groups, acting as a general trust person and creating a positive atmosphere. </span>
-<span>After 3 years I was allowed to take senior camp counselor studies, which I took and now my responsibilities also include (in addition to the previous responsibilities) training of newer counselors, and guiding of other counselors at camp.</span>
+<div>I began taking counselor training almost immediately after my confirmation ceremony. I went to training for three years.</div>
+<div>As a counselor at several camps my responsibilities included but were not limited to ensuring the safety and wellbeing of the youths at the camp, doing games and sketches, </div>
+<div>teaching of the passages that the youths need to know to pass camp, leading bible study groups, acting as a general trust person and creating a positive atmosphere. </div>
+<div>After 3 years I was allowed to take senior camp counselor studies, which I took and now my responsibilities also include (in addition to the previous responsibilities) training of newer counselors, and guiding of other counselors at camp.</div>
 <h2>QUALIFICATIONS AND STUDIES</h2>
 <h3>Elementary School</h3>
 <h4>2011 - 2016</h4>
