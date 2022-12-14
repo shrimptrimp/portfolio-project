@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 import CV from './components/example/CV';
 import Main from './components/example/main';
-import Projects from './components/example/projects';
+import Projects from './projects';
 import Navbar from './components/navbar/navbar';  
 import ReactDOM from 'react-dom/client';
 
