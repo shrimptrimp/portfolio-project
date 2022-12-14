@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.0db3119f.css",
-    "main.js": "./static/js/main.d87f475a.js",
+    "main.css": "./static/css/main.b24ace93.css",
+    "main.js": "./static/js/main.13809880.js",
     "static/js/787.071eb048.chunk.js": "./static/js/787.071eb048.chunk.js",
     "static/media/Tsunami_by_hokusai_19th_century.png": "./static/media/Tsunami_by_hokusai_19th_century.6a79cce9035dc29c28fa.png",
     "index.html": "./index.html",
-    "main.0db3119f.css.map": "./static/css/main.0db3119f.css.map",
-    "main.d87f475a.js.map": "./static/js/main.d87f475a.js.map",
+    "main.b24ace93.css.map": "./static/css/main.b24ace93.css.map",
+    "main.13809880.js.map": "./static/js/main.13809880.js.map",
     "787.071eb048.chunk.js.map": "./static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0db3119f.css",
-    "static/js/main.d87f475a.js"
+    "static/css/main.b24ace93.css",
+    "static/js/main.13809880.js"
   ]
 }
