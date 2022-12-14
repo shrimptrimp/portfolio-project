@@ -8,9 +8,9 @@ import {
 } from "react-router-dom";
 import CV from './components/example/CV';
 import Main from './components/example/main';
-import ReactDOM from 'react-dom/client';
-import Navbar from './components/navbar/navbar';  
 import Projects from './components/example/projects';
+import Navbar from './components/navbar/navbar';  
+import ReactDOM from 'react-dom/client';
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
@@ -27,7 +27,6 @@ const Index: React.FC = () => {
           <Route path='/cv' element={<CV />} />
           <Route path='/projects' element={<Projects />} />
           <Route path='/portfolio-project/' element={<Main />} />
-
         </Routes>
       </BrowserRouter>
     </React.StrictMode>
