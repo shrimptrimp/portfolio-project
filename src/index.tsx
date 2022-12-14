@@ -22,7 +22,7 @@ const Index: React.FC = () => {
       <BrowserRouter>
       <Navbar></Navbar>
         <Routes>
-          <Route path='/' element={<App />}></Route>
+          <Route path='/' element={<Main />}></Route>
           <Route path='main' element={<Main />} />
           <Route path='/cv' element={<CV />} />
           <Route path='/projects' element={<Projects />} />
