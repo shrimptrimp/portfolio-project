@@ -14,6 +14,7 @@ const main: React.FC<mainProps> = () => {
         <h2>Aspiring Software Engineer</h2>
         </h1>
        <a href='https://github.com/shrimptrimp' target="_blank" rel="noreferrer">Github</a>
+       <a href='https://www.linkedin.com/in/kasper-juhani-kukkonen/' target="_blank" rel="noreferrer">LinkedIn</a>
       </div>
 
     </div>
