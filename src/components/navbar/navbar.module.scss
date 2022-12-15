@@ -17,11 +17,14 @@
     text-align: center;
     justify-content: center;
     text-decoration: none;
+    border: 2px solid grey;
+    border-style: outset;
   }
   
   .topnav button:hover {
     background-color: #ddd;
     color: black;
+    border-style: inset;
   }
    body {
     border: 0;
