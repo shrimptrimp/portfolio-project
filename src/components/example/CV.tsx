@@ -9,7 +9,7 @@ const CV: React.FC<CVProps> = () => {
     <div  className={styles.container}>
       <h1>Kasper Juhani Kukkonen</h1>
 
-<p>A student at Varia Myymäki</p>
+<p>A student at Varia Myyrmäki</p>
 An active programming hobbyist and student, and cooperative third-year senior camp counselor.
 
 <h2>SKILLS</h2>
@@ -22,7 +22,8 @@ An active programming hobbyist and student, and cooperative third-year senior ca
 <h2>WORK EXPERIENCE</h2>
 <h3>TET-Period at Mirum Agency</h3> 
 <h4>21/10 - 1/11/2019</h4>
-<p>Office intern, I made Powerpoint presentations, assisted with IT-related issues like cable management, took part in meetings, was part of a study group for Kane's Soda Pop advertising, and helped photographers with recording an advertisement for Nokia phones.</p> 
+<p>Office intern, I made Powerpoint presentations, assisted with IT-related issues like cable management,  <br />
+took part in meetings, was part of a study group for Kane's Soda Pop advertising, and helped photographers with recording an advertisement for Nokia phones.</p> 
 
 <h3>Cooking group counselor at Hakunila Church</h3>
 <h4>10/2017 - 11/2017 </h4>
@@ -32,7 +33,8 @@ Directed a children's cooking group with some other volunteers.
 <div>I began taking counselor training almost immediately after my confirmation ceremony. I went to training for three years.</div>
 <div>As a counselor at several camps my responsibilities included but were not limited to ensuring the safety and wellbeing of the youths at the camp, doing games and sketches, </div>
 <div>teaching of the passages that the youths need to know to pass camp, leading bible study groups, acting as a general trust person and creating a positive atmosphere. </div>
-<div>After 3 years I was allowed to take senior camp counselor studies, which I took and now my responsibilities also include (in addition to the previous responsibilities) training of newer counselors, and guiding of other counselors at camp.</div>
+<div>After 3 years I was allowed to take senior camp counselor studies, which I took and now my responsibilities also include (in addition to the previous responsibilities) <br />
+training of newer counselors, and guiding of other counselors at camp.</div>
 <h2>QUALIFICATIONS AND STUDIES</h2>
 <h3>Elementary School</h3>
 <h4>2011 - 2016</h4>
