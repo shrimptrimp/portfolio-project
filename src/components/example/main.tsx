@@ -9,7 +9,10 @@ const main: React.FC<mainProps> = () => {
   return (
     <div className={styles.container}>
       <div>
-        <h1>Kasper Juhani Kukkonen</h1>
+        <h1>Kasper Juhani Kukkonen 
+        <h2>Shrimptrimp</h2>
+        <h2>Aspiring Software Engineer</h2>
+        </h1>
        <a href='https://github.com/shrimptrimp' target="_blank" rel="noreferrer">Github</a>
       </div>
 
