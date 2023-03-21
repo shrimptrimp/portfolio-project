@@ -10,10 +10,10 @@ const CV: React.FC<CVProps> = () => {
       <h1>Kasper Juhani Kukkonen</h1>
 
       <p>A student at Varia Myyrmäki</p>
-      An active programming hobbyist and student, and cooperative third-year senior camp counselor.
+      An active programming student and hobbyist, and cooperative third-year senior camp counselor.
 
       <h2>SKILLS</h2>
-      <ul>-	Studying Unity, C#, Python, Typescript, and Javascript.</ul>
+      <ul>-	Studying Unity, C#, Python, Typescript, CSS, Lua, SQL, and Javascript.</ul>
       <ul>- Some experience leading groups in agile programming.</ul>
       <ul>-	Third-year camp counselor, able to cooperate with and take others into account.</ul>
       <ul>-	Programming hobbyist and software development student at Myyrmäki Varia.</ul>
