@@ -18,6 +18,7 @@ const CV: React.FC<CVProps> = () => {
       <ul>-	Programming hobbyist and software development student at Myyrmäki Varia.</ul>
       <ul>-	Immensely good english skills.</ul>
       <ul>-	Worked with computers from a very young age.</ul>
+      <ul>- Experience with both Windows and Linux.</ul>
       <h2>WORK EXPERIENCE</h2>
       <h3>TET-Period at Mirum Agency</h3>
       <h4>21/10 - 1/11/2019</h4>
