@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.fddc6870.css",
-    "main.js": "./static/js/main.5ea62780.js",
+    "main.js": "./static/js/main.35e538e1.js",
     "static/js/787.071eb048.chunk.js": "./static/js/787.071eb048.chunk.js",
     "static/media/Tsunami_by_hokusai_19th_century.png": "./static/media/Tsunami_by_hokusai_19th_century.6a79cce9035dc29c28fa.png",
     "static/media/mosaico.png": "./static/media/mosaico.5ff9fa56e83427e15825.png",
     "index.html": "./index.html",
     "main.fddc6870.css.map": "./static/css/main.fddc6870.css.map",
-    "main.5ea62780.js.map": "./static/js/main.5ea62780.js.map",
+    "main.35e538e1.js.map": "./static/js/main.35e538e1.js.map",
     "787.071eb048.chunk.js.map": "./static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fddc6870.css",
-    "static/js/main.5ea62780.js"
+    "static/js/main.35e538e1.js"
   ]
 }
