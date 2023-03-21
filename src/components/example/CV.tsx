@@ -8,7 +8,6 @@ const CV: React.FC<CVProps> = () => {
   return (
     <div className={styles.container}>
       <h1>Kasper Juhani Kukkonen</h1>
-      <img src='me.jpg' alt='me'></img>
       <p>A student at Varia Myyrmäki</p>
       An active programming student and hobbyist, and cooperative third-year senior camp counselor.
 
@@ -28,6 +27,10 @@ const CV: React.FC<CVProps> = () => {
       <h3>Cooking group counselor at Hakunila Church</h3>
       <h4>10/2017 - 11/2017 </h4>
       Directed a children's cooking group with some other volunteers.
+      <h3>Summer job as a snack salesman</h3>
+      <h4>8/4 - 20/4/2018</h4>
+      <div>I worked as a snack stall employee handing out snacks with my local church as a summer job.</div>
+      <div>The job included attracting customers, taking customer orders, serving them and generally being entertaining.</div>
       <h3>Camp counselor at Hakunila Church</h3>
       <h4>2019 - </h4>
       <div>I began taking counselor training almost immediately after my confirmation ceremony. I went to training for three years.</div>
@@ -47,7 +50,7 @@ const CV: React.FC<CVProps> = () => {
 
       <h3>Information and Communication Technologies basic degree </h3>
       <h4>5/1/2021 — 31/5/2024 (estimated) </h4>
-      <p>Studying for the title of Software Developer at Myyrmäki Varia. I am also studying for ICT at Metropolia College through a cross study program. </p>
+      <p>Studying for the title of Software Developer at Myyrmäki Varia. I am also studying to be a Software Engineer at Metropolia College through a cross study program. </p>
       <h2>OTHER STUFF</h2>
       <p>I was granted a stipend through Teollisuusliitto for exemplary grades, cooperation and initiative.</p>
       <h2>CONTACT INFORMATION</h2>
