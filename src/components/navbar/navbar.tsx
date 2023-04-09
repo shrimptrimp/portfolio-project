@@ -9,13 +9,13 @@ const Navbar: React.FC<NavbarProps> = () => {
   return (
     <div className={styles.topnav}>
       <Link to="/main">
-        <button type="submit">Main</button>
+        <button>Main</button>
       </Link>
       <Link to="/cv">
-        <button type="submit">CV</button>
+        <button>CV</button>
       </Link>
       <Link to="/projects">
-        <button type="submit">Projects</button>
+        <button>Projects</button>
       </Link>
     </div>
   )
