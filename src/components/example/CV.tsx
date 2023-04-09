@@ -12,7 +12,7 @@ const CV: React.FC<CVProps> = () => {
       An active programming student and hobbyist, and cooperative third-year senior camp counselor.
 
       <h2>SKILLS</h2>
-      <ul>-	Studying Unity, C#, Python, Typescript, CSS, Lua, SQL, React and Javascript.</ul>
+      <ul>-	Studying Unity, C#, Python, CSS, Lua, SQL, React Typescript, and Javascript.</ul>
       <ul>- Some experience leading groups in agile programming.</ul>
       <ul>-	Third-year camp counselor, able to cooperate with and take others into account.</ul>
       <ul>-	Programming hobbyist and software development student at Myyrmäki Varia.</ul>
@@ -53,7 +53,7 @@ const CV: React.FC<CVProps> = () => {
       <h4>5/1/2021 — 31/5/2024 (estimated) </h4>
       <p>Studying for the title of Software Developer at Myyrmäki Varia. I am also studying to be a Software Engineer at Metropolia College through a cross study program. </p>
       <h2>OTHER STUFF</h2>
-      <p>I was granted a stipend through Teollisuusliitto for exemplary grades, cooperation and initiative.</p>
+      <p>I was granted a stipend through the Finnish Industrial Union for exemplary grades, cooperation and initiative.</p>
       <h2>CONTACT INFORMATION</h2>
       <ul>	Phone Number: +358449765887</ul>
       <ul>	E-Mail: kasperkukkonen08@gmail.com </ul>
