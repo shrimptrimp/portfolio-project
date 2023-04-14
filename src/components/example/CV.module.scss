@@ -4,7 +4,8 @@
     width: auto;
     padding: 5px;
     background-color:azure;
-    font-family: "Lato", sans-serif; }
+    background-image: url(mosaico.png);
+    background-repeat:inherit; }
 
 h2 {
     background-color: #1abc9c;
@@ -18,4 +19,15 @@ h1 {
     border: 4px ridge black;
     padding: 0;
     font-family: "Lato", sans-serif;
+}
+
+h3, h4, p, ul {
+    background-color: azure;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    justify-content: left;
+    border: 4px solid black;
 }

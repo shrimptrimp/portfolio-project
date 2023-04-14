@@ -9,9 +9,10 @@ const CV: React.FC<CVProps> = () => {
   return (
     <div className={styles.container}>
       <h1>Kasper Juhani Kukkonen</h1>
-      <p>A student at Varia Myyrmäki</p>
       <img src={me}></img>
-      An active programming student and hobbyist, and cooperative third-year senior camp counselor.
+      <p>A student at Varia Myyrmäki</p>
+      <p>An active programming student and hobbyist, and cooperative third-year senior camp counselor.</p>
+
 
       <h2>SKILLS</h2>
       <ul>-	Studying Unity, C#, Python, CSS, Lua, SQL, React Typescript, and Javascript.</ul>
@@ -29,18 +30,20 @@ const CV: React.FC<CVProps> = () => {
 
       <h3>Cooking group counselor at Hakunila Church</h3>
       <h4>10/2017 - 11/2017 </h4>
-      Directed a children's cooking group with some other volunteers.
+      <p>Directed a children's cooking group with some other volunteers.</p>
       <h3>Summer job as a snack salesman</h3>
       <h4>8/4 - 20/4/2018</h4>
       <div>I worked as a snack stall employee handing out snacks with my local church as a summer job.</div>
       <div>The job included attracting customers, taking customer orders, serving them and generally being entertaining.</div>
       <h3>Camp counselor at Hakunila Church</h3>
       <h4>2019 - </h4>
+      <p>
       <div>I began taking counselor training almost immediately after my confirmation ceremony. I went to training for three years.</div>
       <div>As a counselor at several camps my responsibilities included but were not limited to ensuring the safety and wellbeing of the youths at the camp, doing games and sketches, </div>
       <div>teaching of the passages that the youths need to know to pass camp, leading bible study groups, acting as a general trust person and creating a positive atmosphere. </div>
       <div>After 3 years I was allowed to take senior camp counselor studies, which I took and now my responsibilities also include (in addition to the previous responsibilities) <br />
         training of newer counselors, and guiding of other counselors at camp.</div>
+        </p>
       <h2>QUALIFICATIONS AND STUDIES</h2>
       <h3>Elementary School</h3>
       <h4>2011 - 2016</h4>
