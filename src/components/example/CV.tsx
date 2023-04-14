@@ -9,7 +9,7 @@ const CV: React.FC<CVProps> = () => {
   return (
     <div className={styles.container}>
       <h1>Kasper Juhani Kukkonen</h1>
-      <img src={me} alt="image of me"></img>
+      <img src={me} alt="me"></img>
       <p>A student at Varia Myyrmäki</p>
       <p>An active programming student and hobbyist, and cooperative third-year senior camp counselor.</p>
 
